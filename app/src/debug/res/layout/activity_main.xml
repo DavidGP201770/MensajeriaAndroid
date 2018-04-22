@@ -16,6 +16,8 @@
         android:layout_height="wrap_content" />
 
     <Button
+        android:textColor="@color/colorBlanco"
+        android:id="@+id/registrarse"
         android:layout_width="match_parent"
         android:textSize="25dp"
         android:gravity="center"
@@ -25,6 +27,8 @@
         android:layout_height="wrap_content" />
 
     <Button
+        android:textColor="@color/colorBlanco"
+        android:id="@+id/enviar"
         android:layout_width="match_parent"
         android:textSize="25dp"
         android:gravity="center"
