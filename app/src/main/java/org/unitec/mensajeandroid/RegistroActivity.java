@@ -177,5 +177,7 @@ public class RegistroActivity extends AppCompatActivity {
         }
 
     };
+
+    //FIN UBICACION
 }
 
